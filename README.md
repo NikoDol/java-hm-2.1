@@ -14,7 +14,7 @@
 В процессе тестирования использовались следующие артефакты:
 * [Программа пополнения баланса](https://github.com/NikoDol/java-hm-2.1/tree/master/artifacts)
 
-В качестве тестовых данных использовались данные https://github.com/netology-code/javaqa-homeworks/tree/master/intro
+В качестве тестовых данных использовались данные:
 * [Ход выполнения задания](https://github.com/netology-code/javaqa-homeworks/tree/master/programming)
 
 
