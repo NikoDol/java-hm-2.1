@@ -3,6 +3,6 @@ public class Main {
     int balance = 2_000_000_000;
     int remittance = 500_000_000;
     int count = balance + remittance;
-        System.out.println(count);
+        System.out.println("balance = " + count);
     }
 }
